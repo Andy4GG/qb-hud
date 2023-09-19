@@ -14,7 +14,7 @@ Dependency :
 
 - QBCore is the Creator of qb-hud, Asu has Edited CSS,HTML,JS .lua so all the right Infringement by QBCoreFramework.
 
-- Don't Sell this Script this is Free Script Download from Official Github Repo :
+- Don't Sell this Script this is Free Script Download from Official Github Repo : https://github.com/ASUONGITHUB/qb-hud
 
 
 📸 Screenshots / Gifs 📸

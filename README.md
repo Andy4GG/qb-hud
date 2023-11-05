@@ -28,7 +28,7 @@ https://streamable.com/23da5v
 
 YouTube - https://www.youtube.com/channel/UCnZkTLjMeKwApQ7NltdRIaA
 
-Discord - https://discord.gg/8KJguQRK
+Discord - https://discord.gg/CBSMwRSneZ
 
 
 

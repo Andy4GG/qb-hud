@@ -33,7 +33,11 @@
 ![Sample Code](https://media.discordapp.net/attachments/1149802288148402186/1219591802776977408/neu-hud.png?ex=660bdc60&is=65f96760&hm=921e5bd423a8e29c72283dff2f2559abb70bda69149adc0754b2812ab73363a1&=&format=webp&quality=lossless&width=577&height=333)
 ### Hud
 ![Hud](https://media.discordapp.net/attachments/1149802288148402186/1219591899799617536/Screenshot_32.png?ex=660bdc77&is=65f96777&hm=faf228878a9f99b6cb683a3e3316da2eb83c5a8f24f6016ad0d40894a0742a2a&=&format=webp&quality=lossless&width=892&height=501)
+### In Vehicle
 ![Vehicle](https://media.discordapp.net/attachments/1149802288148402186/1219591900651196466/Screenshot_34.png?ex=660bdc78&is=65f96778&hm=5e33573bff8ab99749d7963a4d96345b5009b41e5525cf706991d81a9cbff248&=&format=webp&quality=lossless&width=892&height=501)
-### altitude
+### OG Players ❤️
 ![OG Players](https://media.discordapp.net/attachments/1149802288148402186/1219591901121089657/Screenshot_2024-03-16_044513.png?ex=660bdc78&is=65f96778&hm=8b3bc608ba3a9c343791807293b7ae6ad3e8dac5b7798ac8b57ae04681957a7e&=&format=webp&quality=lossless&width=763&height=493)
+
+### Discord 
+![Join My Discord](https://discord.gg/CBSMwRSneZ)
 

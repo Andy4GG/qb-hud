@@ -1,3 +1,6 @@
+# Credits:
+* qb-hud (https://github.com/qbcore-framework/qb-hud) ```(qbcore)```
+* z-hud (https://github.com/TeamBroCode/z-hud) ```(TeamBroCode)```
 
 # Things you should know:
 * To open the menu in-game the **default key** is **"I"** or you can type **"/menu"**
@@ -26,35 +29,11 @@
 ##
 
 # Previews
-### menu config (this is just a preview more options included than what is shown here)
-![menu](https://user-images.githubusercontent.com/91661118/149598723-b34bb93d-8885-4b3a-a0cc-ab68d756a449.PNG)
-### all radials
-![all radials](https://user-images.githubusercontent.com/91661118/143668930-e9475c53-284c-4054-ad9c-88aa98f76768.png)
-### dead health
-![dead](https://user-images.githubusercontent.com/91661118/143668617-3f41913f-506e-4c40-bc97-99c0e02eaec6.png)
-### engine health
-![engine](https://user-images.githubusercontent.com/91661118/143668642-22269059-8220-4b78-8f24-3c3661b7e82f.png)
+### Sample Code
+![Sample Code](https://media.discordapp.net/attachments/1149802288148402186/1219591802776977408/neu-hud.png?ex=660bdc60&is=65f96760&hm=921e5bd423a8e29c72283dff2f2559abb70bda69149adc0754b2812ab73363a1&=&format=webp&quality=lossless&width=577&height=333)
+### Hud
+![Hud](https://media.discordapp.net/attachments/1149802288148402186/1219591899799617536/Screenshot_32.png?ex=660bdc77&is=65f96777&hm=faf228878a9f99b6cb683a3e3316da2eb83c5a8f24f6016ad0d40894a0742a2a&=&format=webp&quality=lossless&width=892&height=501)
+![Vehicle](https://media.discordapp.net/attachments/1149802288148402186/1219591900651196466/Screenshot_34.png?ex=660bdc78&is=65f96778&hm=5e33573bff8ab99749d7963a4d96345b5009b41e5525cf706991d81a9cbff248&=&format=webp&quality=lossless&width=892&height=501)
 ### altitude
-![altitude](https://user-images.githubusercontent.com/91661118/143668687-89ae10b6-9acc-4d68-845d-97db67d3d6de.png)
-### parachute
-![parachute](https://user-images.githubusercontent.com/91661118/143668699-a9d50ee4-1168-401b-bf92-8ba80a696e6e.png)
-### armed
-![armed](https://user-images.githubusercontent.com/91661118/143668646-baac9848-56e5-436b-922a-b35e50ed335f.png)
-### cinematic
-![cinematic](https://user-images.githubusercontent.com/91661118/143668651-74e90ac0-11ad-447a-b27c-1542dd10edfd.png)
-### cruise
-![cruise](https://user-images.githubusercontent.com/91661118/143668654-1b843009-c791-4482-807d-352b75707d42.png)
-### harness
-![harness](https://user-images.githubusercontent.com/91661118/143668664-bd03289a-286f-4165-9447-25b16b5b0c8e.png)
-### cash
-![cash](https://user-images.githubusercontent.com/91661118/143668667-a8e2e856-94be-45c4-9751-39e71315b303.png)
-### bank
-![bank](https://user-images.githubusercontent.com/91661118/143668668-fed140e6-9043-4daa-8aba-36feac3f9b78.png)
-### nitro
-![nitro](https://user-images.githubusercontent.com/91661118/143668672-8a164eb0-aca5-4e00-a99f-56c64e4d5069.png)
-### stamina
-![stamina](https://user-images.githubusercontent.com/91661118/143668678-3327c0bf-7e3b-4fe5-b6e5-da6e4054a47a.png)
-### oxygen
-![oxygen](https://user-images.githubusercontent.com/91661118/143668693-d623822b-fc78-499a-baa3-a86e29504044.png)
-### radio (outdated color)
-![radio](https://user-images.githubusercontent.com/91661118/143668707-eb4bb5e7-5900-4dd8-b500-5fc745a7c146.png)
+![OG Players](https://media.discordapp.net/attachments/1149802288148402186/1219591901121089657/Screenshot_2024-03-16_044513.png?ex=660bdc78&is=65f96778&hm=8b3bc608ba3a9c343791807293b7ae6ad3e8dac5b7798ac8b57ae04681957a7e&=&format=webp&quality=lossless&width=763&height=493)
+
